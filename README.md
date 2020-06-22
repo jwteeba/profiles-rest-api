@@ -5,4 +5,5 @@ This API can do the following:
 2. Authenticate with username and password
 3. Manage user profiles feed items
 
-App is Deploy to AWS: [a link](http://ec2-18-188-126-51.us-east-2.compute.amazonaws.com/api/)
+
+[Click here to see the APP on AWS](http://ec2-18-188-126-51.us-east-2.compute.amazonaws.com/api/)
